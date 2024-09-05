@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "otel_Observability360_Tutorial", "otel_Observability360_Tutorial.csproj", "{E7F6C476-9669-4599-928B-6CCE213975F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "otel_Observability360_Tutorial", "otel_Observability360_Tutorial.csproj", "{47A3AE65-BF46-4884-8209-EEAA5E51B788}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E7F6C476-9669-4599-928B-6CCE213975F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7F6C476-9669-4599-928B-6CCE213975F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7F6C476-9669-4599-928B-6CCE213975F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7F6C476-9669-4599-928B-6CCE213975F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A3AE65-BF46-4884-8209-EEAA5E51B788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A3AE65-BF46-4884-8209-EEAA5E51B788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A3AE65-BF46-4884-8209-EEAA5E51B788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A3AE65-BF46-4884-8209-EEAA5E51B788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
